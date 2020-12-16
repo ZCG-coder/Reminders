@@ -8,8 +8,7 @@ F4 : show properties
 ## Issues  
 The most common issue is missing the rDat.txt file.  
 You can fix it easily by running the attached files.  
-**Note: The bat is for Windows and the sh is for Linux and Mac.  
-**Remenber to run  
-    chmod 700 fixerr.sh  
-**if you're on Linux or Mac!  
+** Note: The bat is for Windows and the sh is for Linux and Mac.  
+** Remember to run [chmod 700 fixerr.sh]  
+** if you're on Linux or Mac!  
 **
