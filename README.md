@@ -5,6 +5,7 @@ F1 : new
 F2 : delete  
 F3 : search  
 F4 : show properties  
+Enter : ok  
 ## Issues  
 The most common issue is missing the rDat.txt file.  
 You can fix it easily by running the attached files.  
